@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The Data Secrets
+tagline:          'An adventure in the seven kingdoms of Data'
+description:      'Random notes on Python, git, machine learning and computational biology'
+url:              http://mmabrouk.github.io
+
+author:
+  name:           'Mahmoud Mabrouk'
+  url:            http://mmabrouk.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/mmabrouk/
