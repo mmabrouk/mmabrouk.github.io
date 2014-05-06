@@ -13,7 +13,7 @@ for elem_1 in my_list:
 			# Do Stuff
 {% endhighlight %}
 
-We're near the 80 charcter limit before even starting to write the main code.
+We're near the 80 character limit before even starting to write the main code.
 
 ## The Solution:
 
