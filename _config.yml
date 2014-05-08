@@ -22,3 +22,7 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/mmabrouk/
+analytics:
+  provider: google
+  google:
+    tracking_id: 'UA-50810663-1'
