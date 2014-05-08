@@ -10,7 +10,7 @@ title:            The Data Secrets
 tagline:          'An adventure in the seven kingdoms of Data'
 description:      'Random notes on Python, git, machine learning and computational biology'
 url:              http://mmabrouk.github.io
-
+safe: true
 author:
   name:           'Mahmoud Mabrouk'
   url:            http://mmabrouk.github.io
