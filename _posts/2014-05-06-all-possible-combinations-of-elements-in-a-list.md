@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Iterating over the list of all combinations between elements of a list
+analytics: true
+category: Python
 ---
 
 ## The Issue 

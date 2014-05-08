@@ -1,3 +1,9 @@
+---
+layout: post
+title: Get difference to the last change in git
+analytics: true
+category: git
+---
 You've just pulled the last changes from your team's git repository, and, guess what, you find someone has changed the script you've been working on, and you ask yourself what did he change?
 Or, your code is starting to behave in a different way than the last week and you ask yourself, what did I change?
 

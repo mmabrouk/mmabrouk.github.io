@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Testing and debugging using IPython
+analytics: true
+category: Python
 ---
 
 ## The Issue 
