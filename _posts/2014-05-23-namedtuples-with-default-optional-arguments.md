@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating namedtuple classes with optional/default argument
+title: Creating namedtuple classes with optional or default arguments
 analytics: true
 category: Python
 ---
