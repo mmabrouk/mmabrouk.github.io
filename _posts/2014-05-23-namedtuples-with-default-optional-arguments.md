@@ -32,7 +32,7 @@ Create a subclass out of the namedtuple and override its __new__ method to allow
 {% highlight python %}
 class Rectangle(namedtuple('Rectangle', [ "length", "width", "color"])):
     def __new__(cls, length, width, color="white"):
-        return super(TemplateContainer, cls).__new__(cls, length, width, color)
+        return super(Rectangle, cls).__new__(cls, length, width, color)
 {% endhighlight %}
 
 Now we can run
